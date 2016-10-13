@@ -17,3 +17,5 @@ Once you have these things just add them to the config.txt file<br>
 
 After that open a command prompt, navigate to the folder containing roomSonos.py and enter:<br>
 python roomPython.py<br>
+
+Also, if you develop this library, make sure to add config.txt to your git ignore file or at least don't check in any confidential info back into a public repo. That's why it is it's own file separate from the source!  :-)<br>
